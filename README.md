@@ -8,10 +8,11 @@ The following are some indications for how best to carry out the challenge:
 - The flag has a form equal to “FLAG: ... ”.
 - Maybe there is more than one flag to find...
 - There is a vulnerability deliberately inserted in the code, which makes it possible to get the FLAG(s).
-    
+ 
 ---
 ##### Hint
-underlying program is written in C, and the vulnerability is well known.
+- Underlying program is written in C, and the vulnerability is well known.
+- Try to enter finding the password (password is 10 characters long).
 
 ##### Pro Hint
 "pleasedonotlookhere"!
