@@ -15,4 +15,4 @@ The following are some indications for how best to carry out the challenge:
 - Try to enter finding the password (password is 10 characters long).
 
 ##### Pro Hint
-"pleasedonotlookhere"!
+- "pleasedonotlookhere"!
